@@ -1,0 +1,19 @@
+names:
+- basketball
+- bench player
+- hoop
+- on court player
+- photographer
+- referee
+- staff
+- worker
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: basketball-game-object-detection
+  url: https://universe.roboflow.com/matthew-hong-fnysh/basketball-game-object-detection/dataset/1
+  version: 1
+  workspace: matthew-hong-fnysh
+test: ../test/images
+train: Basketball-Game-Object-Detection-1/train/images
+val: Basketball-Game-Object-Detection-1/valid/images
